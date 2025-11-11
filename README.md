@@ -1,12 +1,12 @@
 ```markdown
-# DevOps Full-Stack Project (React + Node.js)
+DevOps Full-Stack Project (React + Node.js)
 
 This project is a **full-stack web application** powered by **React (frontend)** and **Node.js (backend)**, fully containerized with **Docker** and orchestrated using **Docker Compose**.  
 It also includes **GitHub Actions** for continuous integration and deployment (CI/CD).
 
 ---
 
-##  Overview
+##Overview
 
 The main goal of this project is to demonstrate **modern DevOps practices** in a full-stack environment.
 
@@ -16,7 +16,7 @@ The main goal of this project is to demonstrate **modern DevOps practices** in a
 
 ---
 
-##  Project Structure
+##Project Structure
 
 ```
 
