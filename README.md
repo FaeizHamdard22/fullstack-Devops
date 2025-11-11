@@ -33,8 +33,6 @@ fullstack-Devops/
 ├── Dockerfile # Dockerfile for building images
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -55,8 +53,9 @@ Copy code
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/FaeizHamdard22/devops-youtube-course-2025.git
-   cd devops-youtube-course-2025
+   git clone https://github.com/FaeizHamdard22/fullstack-Devops
+   cd fullstack-Devops
+   
 Build and Run with Docker Compose
 
 bash
