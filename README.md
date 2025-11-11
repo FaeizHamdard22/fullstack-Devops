@@ -18,6 +18,7 @@ The main goal of this project is to demonstrate **modern DevOps practices** in a
 ##  Project Structure
 
 fullstack-Devops/
+
 ├── .github/
 │ └── workflows/
 │ └── ci.yml # GitHub Actions workflow file
